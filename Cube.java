@@ -3,6 +3,17 @@ import java.io.IOException;
 import java.io.InputStreamReader;
 import java.util.ArrayList;
 
+
+//Feedback
+// Looks good! I think I recognize some of this code! Overall looks neat and was easy to understand. I appreciated the extended prompt for the user
+// and found the using experience good. Looks like you ahve a few more functions to add for example the solving method but otherwise seems good.
+// It's also a good idea to remove unused imports like the one on line 4 as it can add bloat to your programs performance.
+// 
+// 
+// 
+// 
+
+
 public class Cube {
 
    static String[][] cube = {{
